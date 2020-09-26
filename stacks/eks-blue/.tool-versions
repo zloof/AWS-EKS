@@ -1,0 +1,4 @@
+terraform 0.12.20
+heptio-authenticator-aws 0.3.0
+helm 3.2.4
+kubectl 1.17.0
