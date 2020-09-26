@@ -1,6 +1,6 @@
 
-# Development
-This util create a list AWS services being used region wise and Export them to aws-bizzabo-resources.csv
+# AWS services csv exporter
+This util create a list AWS services being used in each region and Export them to aws-bizzabo-resources.csv file
 
 How to run:
 
